@@ -55,12 +55,12 @@ O objetivo é facilitar o acesso dos cidadãos aos serviços públicos e reforç
 
 ## 👨‍💻 Desenvolvedores
 
-**Leandro Cordulino do Nascimento**  
+**Leandro do Nascimento Cordulino**  
 💼 Desenvolvedor Júnior Web back-end - Estágiário SEJUSP  
 📍 Rio Branco - AC  
-& 
-**Anna Júlia Franco Medeiros** 
-🎨Desing Web Junior Front-end
+
+**Anna Júlia Franco Medeiros** <br>
+🎨Desing Web Junior Front-end - Professora de programção - Código Kids <br>
 📍 Rio Branco - AC  
 
 > “Unindo tecnologia e cidadania pela segurança pública do Acre.”
