@@ -56,7 +56,7 @@ O objetivo é facilitar o acesso dos cidadãos aos serviços públicos e reforç
 ## 👨‍💻 Desenvolvedor
 
 **Leandro Cordulino do Nascimento**  
-💼 Desenvolvedor Web  
+💼 Desenvolvedor Júnior Web - Estágiário SEJUSP  
 📍 Rio Branco - AC  
 
 > “Unindo tecnologia e cidadania pela segurança pública do Acre.”
