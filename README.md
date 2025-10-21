@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" height="502" alt="acre-icon" src="https://github.com/user-attachments/assets/78130533-d625-49c1-9b51-76ce59fc66da" alt="Governo do Acre"/>
+<img width="300" height="502" alt="acre-icon" src="https://github.com/user-attachments/assets/82487571-baaf-4be7-af0d-a4d85fa1a368" alt="Governo do Acre"/>
 
 <h1 align="center">SEJUSP - Secretaria de Estado de Justiça e Segurança Pública do Acre</h1>
 
