@@ -76,3 +76,6 @@ O código pode ser estudado e adaptado para fins educacionais e de transparênci
 
 <p align="center">⭐ Se este projeto te inspirou, deixe uma estrela no repositório! ⭐</p>
 
+
+<strong>Acesse agora para visualizar o site:</strong> https://julia-alt-0w0.github.io/SEJUSP-AC/
+
